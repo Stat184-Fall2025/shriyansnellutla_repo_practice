@@ -1,4 +1,6 @@
 ---
+# Following the Tidyverse Style Guide
+
 title: "Activity 14 QMD File"
 author: "Shriyans Nellutla"
 date: "Nov. 16, 2025"
